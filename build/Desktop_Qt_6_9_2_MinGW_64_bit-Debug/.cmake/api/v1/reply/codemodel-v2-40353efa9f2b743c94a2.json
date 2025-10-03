@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-45ade9398acc1cd381c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tugas_1_Komgraf",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tugas_1_Komgraf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tugas_1_Komgraf-Debug-6db49730965c0ab7d159.json",
+					"name" : "Tugas_1_Komgraf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tugas_1_Komgraf_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tugas_1_Komgraf_autogen-Debug-7abb56eab6c36b404a43.json",
+					"name" : "Tugas_1_Komgraf_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tugas_1_Komgraf_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tugas_1_Komgraf_autogen_timestamp_deps-Debug-ce0397b3e6ae2f6353d6.json",
+					"name" : "Tugas_1_Komgraf_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lenovo/Documents/Tugas_1_Komgraf/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Lenovo/Documents/Tugas_1_Komgraf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
